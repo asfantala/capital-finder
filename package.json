@@ -4,11 +4,8 @@
   "description": "- he  - -",
   "main": "index.js",
   "dependencies": {
-    "urllib3": "^0.0.1",
-    "requests": "^0.3.0"
-
+    "urllib3": "^0.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
