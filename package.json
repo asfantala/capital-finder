@@ -1,5 +1,25 @@
 {
+  "name": "capital-finder",
+  "version": "1.0.0",
+  "description": "- he  - -",
+  "main": "index.js",
   "dependencies": {
-    "urllib3": "^0.0.1"
-  }
+    "urllib3": "^0.0.1",
+    "requests": "^0.3.0"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asfantala/capital-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asfantala/capital-finder/issues"
+  },
+  "homepage": "https://github.com/asfantala/capital-finder#readme"
 }
